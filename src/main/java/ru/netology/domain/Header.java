@@ -2,7 +2,11 @@ package ru.netology.domain;
 
 public class Header {
     private String logoImage;
-    private String header;
-    private String date;
+    private int mainHeaderId;
+    private String mainHeaderText;
+    private int date;
+    private int headerId;
     private String headerText;
+
+    //getter+setter;
 }
