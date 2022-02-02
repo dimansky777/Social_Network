@@ -1,13 +1,13 @@
 package ru.netology.manager;
 
-import ru.netology.domain.Footer;
+import ru.netology.domain.LikesInfo;
 
-public class FooterManager {
+public class LikesManager {
 
-    private Footer[] footer;
+    private LikesInfo[] likesInfo;
 
     //метод который забирает данные из класс Footer для отображения
-    public Footer[] getFooterForFeed() {
+    public LikesInfo[] getLikesForFeed() {
 
         //To do some logic
         return null;

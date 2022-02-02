@@ -1,13 +1,13 @@
 package ru.netology.manager;
 
-import ru.netology.domain.Header;
+import ru.netology.domain.RepostInfo;
 
-public class HeaderManager {
+public class RepostManager {
 
-    private Header[] header;
+    private RepostInfo[] repostInfo;
 
     //метод который забирает данные из класс header для отображения
-    public Header[] getHeaderForFeed() {
+    public RepostInfo[] getRepostForFeed() {
 
         //To do some logic
         return null;

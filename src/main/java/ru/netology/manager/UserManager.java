@@ -1,13 +1,13 @@
 package ru.netology.manager;
 
-import ru.netology.domain.Body;
+import ru.netology.domain.UserInfo;
 
-public class BodyManager {
+public class UserManager {
 
-    private Body[] body;
+    private UserInfo[] userInfo;
 
     //метод который забирает данные из класс Body для отображения
-    public Body[] getBodyForFeed() {
+    public UserInfo[] getUserForFeed() {
 
         //To do some logic
         return null;
