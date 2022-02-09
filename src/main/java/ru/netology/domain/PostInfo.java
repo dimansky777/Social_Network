@@ -29,6 +29,12 @@ public class PostInfo {
     private String sourcePostPlatform;
     private String sourcePostDate;
     private String sourcePostUrl;
-
+    private String imageUrl;
+    private String logoImage;
+    private String headerId;
+    private String headerOne;
+    private String headerTwo;
+    private String headerText;
+    private String buttonUrl;
     //getter+setter;
 }
