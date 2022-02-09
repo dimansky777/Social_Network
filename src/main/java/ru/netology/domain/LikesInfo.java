@@ -4,8 +4,8 @@ public class LikesInfo {
 
         private int likeCount;
         private int userId;
-        private int canLike;
-        private int userLike;
+        private boolean canLike;
+        private boolean userLike;
 
     //getter+setter;
 
